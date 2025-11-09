@@ -1,0 +1,2 @@
+I first checked whether node was installed on my machine. using node -v on the terminal
+I then proceeded to install Sass using npm install sass -v 3.7.4
