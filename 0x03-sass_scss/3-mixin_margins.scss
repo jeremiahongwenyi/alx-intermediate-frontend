@@ -1,0 +1,12 @@
+@mixin Margins($left, $right) {
+  margin-left: $left;
+  margin-right: $right;
+}
+
+body {
+  @include Margins(10px, 15px);
+}
+
+div {
+  @include Margins(10px, 15px);
+}
